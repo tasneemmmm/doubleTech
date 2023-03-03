@@ -1,0 +1,103 @@
+body{
+  background-color: black;
+}
+
+/* Header */
+.btn-outline-primary {
+  color:#537FE7;
+  border-color: #537FE7;
+  border-radius: 100px;
+}
+.btn-outline-primary:hover
+{
+  background-color:#537FE7;
+  border-color:  #537FE7;
+}
+.navbar .navbar-nav .nav-link:hover
+{
+  color:#537FE7;
+}
+.nav-item
+{
+  padding:0 15px 0 15px ;
+}
+
+#Header
+{
+  padding:0 15% 0 15% ;
+
+}
+
+/* Home */
+#Home
+{
+  padding: 0 15% 15% 15% ;
+  text-align: center;
+  margin-top: 5%;
+
+}
+h1
+{
+  color:#537FE7;
+  font-weight: bold;
+  line-height: 2;
+}
+h2
+{
+  color: white;
+  font-weight: lighter;
+}
+.home-text
+{
+  padding-top: 8%;
+}
+.HomeImg
+{
+  height: 450px;
+  width: 600px;
+}
+
+/* Services */
+#Services
+{
+  padding:0 15% 0 15% ;
+  text-align: center;
+}
+.Services-Title h1
+{
+  color:#537FE7;
+}
+.Services-text h2
+{
+  color: white;
+}
+
+.card
+{
+  margin: 10% 0 10% 0 ;
+  border-width: thin;
+  border-color: white;
+  background-image: linear-gradient(
+        #121013 50%,
+        #2B3467 100%,
+        #537FE7 10%
+
+    );
+  text-align: center;
+}
+.WDimg
+{
+  width: 100px ;
+  margin: 0 auto;
+  padding: 32% 0 ;
+}
+
+.card-body h2
+{
+  color: #537FE7;
+  font-weight:lighter;
+}
+.card-body p
+{
+  color: white;
+}
